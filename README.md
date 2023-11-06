@@ -121,4 +121,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Thank you for exploring the Medical Inventory Optimization Project on GitHub. Your contributions, feedback, and collaborations are highly valued. If you have any questions or would like to get involved, please reach out to [Your Name/Your Contact Information].
+Thank you for exploring the Medical Inventory Optimization Project on GitHub. Your contributions, feedback, and collaborations are highly valued. If you have any questions or would like to get involved, please reach out to me.
