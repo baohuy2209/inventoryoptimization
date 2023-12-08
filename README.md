@@ -1,4 +1,4 @@
-# Medical Inventory Optimization Project
+# Medical Inventory Optimization
 
 Welcome to the Medical Inventory Optimization Project on GitHub. This project is designed to optimize medical inventory management within healthcare institutions by leveraging data-driven insights and advanced forecasting techniques. It integrates data analytics, statistical modeling, and optimization strategies to enhance efficiency, reduce costs, and ensure optimal stock availability of essential medical supplies.
 
