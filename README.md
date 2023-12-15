@@ -23,11 +23,7 @@ We collected historical medical inventory data, including consumption patterns, 
 
 ### 2. Forecasting Models
 
-To predict future demand, we implemented a variety of forecasting models, including:
-
-- Moving Averages: Basic models to understand trends and patterns.
-- Exponential Smoothing: Models designed to capture exponential trends and seasonality.
-- LSTM Neural Networks: Advanced models capable of capturing complex temporal patterns in data.
+To predict future demand, we implemented a variety of forecasting models
 
 ### 3. Demand Variability Analysis
 
