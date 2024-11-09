@@ -1,6 +1,6 @@
-# Medical Inventory Optimization
+# Store Inventory Demand Analysis & Optimization
 
-Welcome to the Medical Inventory Optimization Project on GitHub. This project is designed to optimize medical inventory management within healthcare institutions by leveraging data-driven insights and advanced forecasting techniques. It integrates data analytics, statistical modeling, and optimization strategies to enhance efficiency, reduce costs, and ensure optimal stock availability of essential medical supplies.
+Welcome to the Store Inventory Demand Analysis & Optimizationn Project on GitHub. This project is designed to optimize store inventory management by leveraging data-driven insights and advanced forecasting techniques. It integrates data analytics, statistical modeling, and optimization strategies to enhance efficiency, reduce costs, and ensure optimal stock availability of essential supplies.
 
 ![image](https://github.com/mukul-bhele/inventoryoptimization/blob/a4bda0fed3e0286c622b06a977f45e524fd2ec90/Medical%20Inventory%20Optimization%20(Image).jpeg)
 ## Table of Contents
@@ -15,7 +15,7 @@ Welcome to the Medical Inventory Optimization Project on GitHub. This project is
 
 ## Technical Overview
 
-The Medical Inventory Optimization Project is a comprehensive initiative that harnesses data analytics and forecasting techniques. It consists of the following components:
+The Store Inventory Demand Analysis & Optimization Project is a comprehensive initiative that harnesses data analytics and forecasting techniques. It consists of the following components:
 
 ### 1. Data Collection and Analysis
 
