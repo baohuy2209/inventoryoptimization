@@ -2,6 +2,11 @@
 
 Welcome to the Store Inventory Demand Analysis & Optimizationn Project on GitHub. This project is designed to optimize store inventory management by leveraging data-driven insights and advanced forecasting techniques. It integrates data analytics, statistical modeling, and optimization strategies to enhance efficiency, reduce costs, and ensure optimal stock availability of essential supplies.
 
+## Tools Used : Excel, SQL, Power BI, Python, Time Forecasting
+ - Optimized product demand forecasting with time series model like ARIMA, Holt-Winters, VECM and Random Forest, achieving a MAPE under 10% improving forecasting accuracy and effectively reducing product shortages.
+ - Created an Excel-based inventory report and utilized SQL to fetch data, enabling automated stock notifications.
+ - Developed a Power BI dashboard to track sales, resulting in a 30% reduction in lost sales and enhanced tracking.
+
 ![image](https://github.com/mukul-bhele/inventoryoptimization/blob/a4bda0fed3e0286c622b06a977f45e524fd2ec90/Medical%20Inventory%20Optimization%20(Image).jpeg)
 ## Table of Contents
 1. [Technical Overview](#technical-overview)
@@ -19,7 +24,7 @@ The Store Inventory Demand Analysis & Optimization Project is a comprehensive in
 
 ### 1. Data Collection and Analysis
 
-We collected historical medical inventory data, including consumption patterns, order quantities, and lead times. This data was subjected to exploratory data analysis (EDA) to identify trends, seasonality, and irregularities. 
+We collected historical medical inventory data, including consumption patterns, order quantities, and lead times and cleaned using Excel. This data was subjected to exploratory data analysis (EDA) to identify trends, seasonality, and irregularities.
 
 ### 2. Forecasting Models
 
